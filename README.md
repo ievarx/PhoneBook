@@ -16,7 +16,7 @@ This repository contains the **Phonebook** project, a database application where
 #### **⚙️ How to Run:**  
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/yourusername/phonebook.git
+   git clone https://github.com/ievarx/phonebook.git
    ```  
 2. **Create the database:**  
    - Open **MySQL** and execute the queries from `query.txt`.  
